@@ -1,2 +1,3 @@
-# clipes-status
-Painel de status (criptografado)
+# Painel
+
+Conteúdo criptografado.

@@ -1,0 +1,1 @@
+{"name": "Clipes Bot", "short_name": "Clipes", "start_url": "./", "display": "standalone", "background_color": "#0a0c12", "theme_color": "#0a0c12", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"}, {"src": "icon.png", "sizes": "180x180", "type": "image/png"}]}
